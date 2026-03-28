@@ -8,8 +8,7 @@
 - 💻 Backend Developer focused on building scalable applications  
 - ⚙️ Strong in Java, Spring Boot, and REST API development  
 - 🧠 Skilled in database design and backend architecture  
-- 🚀 Built real-world systems in logistics, inventory, and payroll domains  
-- 🎯 Goal: Become an industry-ready Backend Engineer  
+- 🚀 Built real-world systems in logistics, inventory, and payroll domains    
 
 ---
 
